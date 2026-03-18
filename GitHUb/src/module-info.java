@@ -4,5 +4,5 @@
 /**
  * 
  */
-module GitHUb {
+module GitHub {
 }
